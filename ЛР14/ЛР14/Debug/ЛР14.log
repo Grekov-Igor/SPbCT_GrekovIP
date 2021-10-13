@@ -1,0 +1,6 @@
+﻿  Classes.cpp
+  MyForm.cpp
+C:\Users\igorg\source\repos\ЛР14\ЛР14\MyForm.h(309,1): warning C4965: неявная упаковка целого числа 0; используйте nullptr или явное приведение типов
+  Создание кода...
+  Classes.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  ЛР14.vcxproj -> C:\Users\igorg\source\repos\ЛР14\Debug\ЛР14.exe
