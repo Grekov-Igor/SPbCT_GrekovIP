@@ -1,0 +1,4 @@
+﻿  MyForm.cpp
+C:\Users\igorg\source\repos\ЛР15(инд)\ЛР15(инд)\MyForm.h(204,35): warning C4101: ex: неиспользованная локальная переменная
+  MyForm.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  ЛР15(инд).vcxproj -> C:\Users\igorg\source\repos\ЛР15(инд)\Debug\ЛР15(инд).exe
