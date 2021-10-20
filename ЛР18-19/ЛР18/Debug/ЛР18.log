@@ -1,0 +1,3 @@
+﻿  ЛР18.cpp
+C:\Users\igorg\source\repos\ЛР18\ЛР18\ЛР18.cpp(80,11): warning C4477: "printf": в строке форматирования "%s" требуется аргумент типа "char *", но вариативный аргумент "1" имеет тип "LPVOID"
+  ЛР18.vcxproj -> C:\Users\igorg\source\repos\ЛР18\Debug\ЛР18.exe
