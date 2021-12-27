@@ -1,0 +1,7 @@
+﻿  MyForm.cpp
+C:\Users\igorg\source\repos\ПрактикаФорма\EducationalPractice\EducationalPractice\MyForm.cpp(8,1): warning C4829: Возможно, неправильные параметры функции main. Рекомендуемый вариант - "int main(Platform::Array<Platform::String^>^ argv)"
+  MyForm1.cpp
+  Создание кода...
+  MathLibrary.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+     Создается библиотека C:\Users\igorg\source\repos\ПрактикаФорма\EducationalPractice\x64\Debug\EducationalPractice.lib и объект C:\Users\igorg\source\repos\ПрактикаФорма\EducationalPractice\x64\Debug\EducationalPractice.exp
+  EducationalPractice.vcxproj -> C:\Users\igorg\source\repos\ПрактикаФорма\EducationalPractice\x64\Debug\EducationalPractice.exe

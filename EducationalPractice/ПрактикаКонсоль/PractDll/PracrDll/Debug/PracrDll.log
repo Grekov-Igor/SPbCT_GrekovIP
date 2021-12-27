@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\igorg\source\repos\PractDll\PracrDll\Source.cpp(8,2): warning C4273: MathFuncs::MyMathFuncs::Add: несовместимое связывание dll
+C:\Users\igorg\source\repos\PractDll\PracrDll\Header.h(17,32): message : см. предыдущее определение "Add"
+  PracrDll.vcxproj -> C:\Users\igorg\source\repos\PractDll\Debug\PracrDll.dll

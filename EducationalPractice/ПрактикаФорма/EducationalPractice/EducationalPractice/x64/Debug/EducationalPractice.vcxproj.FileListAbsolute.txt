@@ -1,0 +1,12 @@
+C:\Users\bulyn\Desktop\SPbCT_BulyninMA\EducationalPractice\EducationalPractice\x64\Debug\EducationalPractice.vcxprojAssemblyReference.cache
+C:\Users\bulyn\Desktop\SPbCT_BulyninMA\EducationalPractice\EducationalPractice\x64\Debug\EducationalPractice.MyForm.resources
+C:\Users\bulyn\Desktop\SPbCT_BulyninMA\EducationalPractice\EducationalPractice\x64\Debug\EducationalPractice.MyForm1.resources
+C:\Users\bulyn\Desktop\SPbCT_BulyninMA\EducationalPractice\EducationalPractice\x64\Debug\EducationalPractice.vcxproj.GenerateResource.cache
+C:\Users\igorg\Desktop\системеное программирование\SPbCT_BulyninMA\EducationalPractice\EducationalPractice\x64\Debug\EducationalPractice.vcxprojAssemblyReference.cache
+C:\Users\igorg\Desktop\системеное программирование\SPbCT_BulyninMA\EducationalPractice\EducationalPractice\x64\Debug\EducationalPractice.MyForm.resources
+C:\Users\igorg\Desktop\системеное программирование\SPbCT_BulyninMA\EducationalPractice\EducationalPractice\x64\Debug\EducationalPractice.MyForm1.resources
+C:\Users\igorg\Desktop\системеное программирование\SPbCT_BulyninMA\EducationalPractice\EducationalPractice\x64\Debug\EducationalPractice.vcxproj.GenerateResource.cache
+C:\Users\igorg\source\repos\ПрактикаФорма\EducationalPractice\EducationalPractice\x64\Debug\EducationalPractice.vcxprojAssemblyReference.cache
+C:\Users\igorg\source\repos\ПрактикаФорма\EducationalPractice\EducationalPractice\x64\Debug\EducationalPractice.MyForm.resources
+C:\Users\igorg\source\repos\ПрактикаФорма\EducationalPractice\EducationalPractice\x64\Debug\EducationalPractice.MyForm1.resources
+C:\Users\igorg\source\repos\ПрактикаФорма\EducationalPractice\EducationalPractice\x64\Debug\EducationalPractice.vcxproj.GenerateResource.cache
